@@ -1,0 +1,12 @@
+img{
+    height: 720px;
+    width: 720px;
+}
+
+#absolute{
+    width: 100px;
+}
+
+#relative{
+    width: 50%;
+}
